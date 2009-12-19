@@ -8,3 +8,7 @@ configure
 install-sh
 missing
 kbproto.pc
+*~
+kbproto-*.tar.*
+ChangeLog
+tags
